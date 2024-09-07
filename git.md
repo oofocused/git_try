@@ -231,3 +231,9 @@ git clone git@github.com:xxx/test.git
 点击 源代码管理 右上角三个点，点击拉取，将github上文件拉取到本地。
 
 当你确定只有要拉取的文件，没有要推送的文件时，也可以直接按同步更改。
+
+
+
+
+
+second commit
